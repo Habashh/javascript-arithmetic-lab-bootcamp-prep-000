@@ -1,7 +1,7 @@
 function add(a,b){
   return a+b;
 }
-<<<<<<< HEAD
+
 function subtract(a,b){
   return a-b;
 }
@@ -10,7 +10,7 @@ function multiply(a,b){
 }
 function divide(a,b){
   return a/b;
-=======
+
 function add(a,b){
   return a+b;
 }
